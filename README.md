@@ -21,6 +21,7 @@ cast 'start_month' to category dtype for easy plotting
 In the exploration, I found that there are two types of user:
 
 Subscriber
+
 Customer
 
 The number of trips peaked around 8-9am and 17-18pm during a day,
